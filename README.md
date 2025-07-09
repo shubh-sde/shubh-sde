@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubh-sde&label=Profile%20views&color=0e75b6&style=flat" alt="shubh-sde" /> </p>
 
-- 🌱 I’m currently learning **Android Library Components for Open Source Contribution Android.**
+- 🌱 I’m currently learning **LLM Models Prompt creations for chatbot application development.**
 
-- 💬 Ask me about **Android, Flutter, Sql, Java**
+- 💬 Ask me about **Android, Flutter, Jetpack Compose, Java, Kotlin**
 
 - 📫 How to reach me **shub.sde@gmail.com**
 
