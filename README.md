@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **shub.sde@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ctpu-Y0T7fAbqMpauZ0smBexjdtvVV15/view?usp=sharing](https://drive.google.com/file/d/1ctpu-Y0T7fAbqMpauZ0smBexjdtvVV15/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1ctpu-Y0T7fAbqMpauZ0smBexjdtvVV15/view?usp=sharing](https://drive.google.com/file/d/1sAuVtODt117LmO5fo0JZsbRcElJ795f9/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
